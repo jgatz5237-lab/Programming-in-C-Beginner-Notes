@@ -1,2 +1,2 @@
-# Beginner-Notes
-Most topics that deal with Programming in C
+# c-skeleton
+General skeleton/template for C programming with best practices
